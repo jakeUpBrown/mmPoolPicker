@@ -1,0 +1,3 @@
+from pool_simulator import BranchSimulator
+
+BranchSimulator.run_current_round_branches_sim()

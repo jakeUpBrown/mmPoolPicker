@@ -1,0 +1,3 @@
+from pool_simulator import CurrentOddsSimulator
+
+CurrentOddsSimulator.run_current_year_sim()

@@ -1,0 +1,1080 @@
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Duke,NC Central/N. Dak. St.,0,$248.0,100.0%,0.0%,0.0%,1.0
+gully,11,Duke,NC Central/N. Dak. St.,0,$36.97,0.0%,59.64%,0.0%,2.5
+liquorman,6,Duke,NC Central/N. Dak. St.,0,$22.15,0.0%,35.73%,0.0%,2.85
+bob,0,Duke,NC Central/N. Dak. St.,0,$10.0,0.0%,0.0%,100.0%,16.0
+terry,14,Duke,NC Central/N. Dak. St.,0,$5.81,0.0%,9.36%,0.0%,3.77
+chad,5,Duke,NC Central/N. Dak. St.,0,$0.62,0.0%,1.0%,0.0%,4.84
+dave b.,1,Duke,NC Central/N. Dak. St.,0,$0.0,0.0%,0.0%,0.0%,7.77
+drew,2,Duke,NC Central/N. Dak. St.,0,$0.0,0.0%,0.0%,0.0%,12.34
+liz,3,Duke,NC Central/N. Dak. St.,0,$0.0,0.0%,0.0%,0.0%,6.13
+barb,4,Duke,NC Central/N. Dak. St.,0,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Duke,NC Central/N. Dak. St.,0,$0.0,0.0%,0.0%,0.0%,7.58
+purdue pete,8,Duke,NC Central/N. Dak. St.,0,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Duke,NC Central/N. Dak. St.,0,$0.0,0.0%,0.0%,0.0%,12.11
+peninsular danny,10,Duke,NC Central/N. Dak. St.,0,$0.0,0.0%,0.0%,0.0%,11.38
+jake,13,Duke,NC Central/N. Dak. St.,0,$0.0,0.0%,0.0%,0.0%,8.19
+tyler,15,Duke,NC Central/N. Dak. St.,0,$0.0,0.0%,0.0%,0.0%,9.95
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+gully,11,UCF,VCU,1,$156.69,61.18%,8.0%,0.0%,1.68
+RF,12,UCF,VCU,1,$126.82,46.64%,18.0%,0.0%,2.07
+chad,5,UCF,VCU,1,$63.13,13.45%,48.0%,0.0%,2.25
+bob,0,UCF,VCU,1,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,13.62
+liz,3,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,4.58
+barb,4,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,4.71
+dave monkey,7,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,6.73
+purdue pete,8,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,12.79
+stef,9,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,9.86
+peninsular danny,10,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,12.52
+jake,13,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,10.08
+terry,14,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,5.39
+tyler,15,UCF,VCU,1,$0.0,0.0%,0.0%,0.0%,10.06
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+gully,11,Liberty,Mississippi St.,2,$173.6,70.0%,0.0%,0.0%,1.65
+chad,5,Liberty,Mississippi St.,2,$58.0,7.64%,63.0%,0.0%,2.21
+RF,12,Liberty,Mississippi St.,2,$54.56,22.0%,0.0%,0.0%,2.89
+terry,14,Liberty,Mississippi St.,2,$29.48,3.64%,33.0%,0.0%,3.17
+bob,0,Liberty,Mississippi St.,2,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,7.7
+drew,2,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,12.83
+liz,3,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,5.0
+barb,4,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,6.88
+dave monkey,7,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,6.42
+purdue pete,8,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,10.47
+peninsular danny,10,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,11.94
+jake,13,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,9.04
+tyler,15,Liberty,Mississippi St.,2,$0.0,0.0%,0.0%,0.0%,10.72
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Virginia Tech,Saint Louis,3,$231.26,91.0%,9.0%,0.0%,1.09
+terry,14,Virginia Tech,Saint Louis,3,$47.12,9.0%,40.0%,0.0%,2.7
+liquorman,6,Virginia Tech,Saint Louis,3,$24.8,0.0%,40.0%,0.0%,3.01
+bob,0,Virginia Tech,Saint Louis,3,$10.0,0.0%,0.0%,100.0%,16.0
+chad,5,Virginia Tech,Saint Louis,3,$6.82,0.0%,11.0%,0.0%,3.02
+dave b.,1,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,8.25
+drew,2,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,12.46
+liz,3,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,6.0
+barb,4,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,11.89
+dave monkey,7,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,7.09
+purdue pete,8,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,14.78
+stef,9,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,13.59
+peninsular danny,10,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,10.07
+gully,11,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,4.87
+jake,13,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,10.26
+tyler,15,Virginia Tech,Saint Louis,3,$0.0,0.0%,0.0%,0.0%,10.11
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+terry,14,Maryland,Belmont,4,$188.48,68.0%,32.0%,0.0%,1.32
+RF,12,Maryland,Belmont,4,$114.7,32.0%,57.0%,0.0%,1.79
+bob,0,Maryland,Belmont,4,$10.0,0.0%,0.0%,100.0%,16.0
+chad,5,Maryland,Belmont,4,$6.82,0.0%,11.0%,0.0%,2.89
+dave b.,1,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,8.44
+drew,2,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,12.19
+liz,3,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,5.01
+barb,4,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,8.43
+dave monkey,7,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,6.26
+purdue pete,8,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,10.44
+peninsular danny,10,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,11.64
+gully,11,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,4.0
+jake,13,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,6.7
+tyler,15,Maryland,Belmont,4,$0.0,0.0%,0.0%,0.0%,11.52
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,LSU,Yale,5,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,LSU,Yale,5,$62.0,0.0%,100.0%,0.0%,2.0
+bob,0,LSU,Yale,5,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,7.87
+drew,2,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,13.43
+liz,3,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,4.07
+barb,4,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,6.66
+dave monkey,7,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,5.02
+purdue pete,8,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,13.57
+stef,9,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,11.1
+peninsular danny,10,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,11.83
+gully,11,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,3.27
+jake,13,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,9.86
+terry,14,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,5.86
+tyler,15,LSU,Yale,5,$0.0,0.0%,0.0%,0.0%,9.13
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Minnesota,Louisville,6,$218.24,86.0%,8.0%,0.0%,1.21
+terry,14,Minnesota,Louisville,6,$45.99,14.0%,18.18%,0.0%,2.9
+gully,11,Minnesota,Louisville,6,$41.2,0.0%,66.45%,0.0%,2.52
+chad,5,Minnesota,Louisville,6,$14.71,0.0%,23.73%,0.0%,2.96
+bob,0,Minnesota,Louisville,6,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,7.0
+drew,2,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,12.69
+liz,3,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,5.0
+barb,4,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,8.0
+dave monkey,7,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,5.97
+purdue pete,8,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,10.55
+peninsular danny,10,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,11.97
+jake,13,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,9.0
+tyler,15,Minnesota,Louisville,6,$0.0,0.0%,0.0%,0.0%,10.79
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Michigan St.,Bradley,7,$128.4,46.27%,22.0%,0.0%,2.25
+tyler,15,Michigan St.,Bradley,7,$122.82,33.27%,65.0%,0.0%,1.68
+liquorman,6,Michigan St.,Bradley,7,$69.21,26.91%,4.0%,0.0%,2.56
+bob,0,Michigan St.,Bradley,7,$10.0,0.0%,0.0%,100.0%,16.0
+terry,14,Michigan St.,Bradley,7,$2.25,0.91%,0.0%,0.0%,4.4
+dave b.,1,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,8.86
+drew,2,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,12.32
+liz,3,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,6.88
+barb,4,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,15.0
+chad,5,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,4.33
+dave monkey,7,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,8.15
+purdue pete,8,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,12.62
+stef,9,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,11.02
+peninsular danny,10,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,13.82
+gully,11,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,5.55
+jake,13,Michigan St.,Bradley,7,$0.0,0.0%,0.0%,0.0%,10.04
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Gonzaga,F. Dickinson,8,$248.0,100.0%,0.0%,0.0%,1.0
+terry,14,Gonzaga,F. Dickinson,8,$58.0,0.0%,93.55%,0.0%,2.09
+bob,0,Gonzaga,F. Dickinson,8,$10.0,0.0%,0.0%,100.0%,16.0
+gully,11,Gonzaga,F. Dickinson,8,$4.73,0.0%,7.64%,0.0%,3.05
+chad,5,Gonzaga,F. Dickinson,8,$1.8,0.0%,2.91%,0.0%,5.42
+dave b.,1,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,7.88
+drew,2,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,12.67
+liz,3,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,6.63
+barb,4,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,4.71
+dave monkey,7,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,9.24
+purdue pete,8,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,8.34
+peninsular danny,10,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,12.31
+jake,13,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,10.47
+tyler,15,Gonzaga,F. Dickinson,8,$0.0,0.0%,0.0%,0.0%,6.54
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Baylor,Syracuse,9,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Baylor,Syracuse,9,$62.0,0.0%,100.0%,0.0%,2.0
+bob,0,Baylor,Syracuse,9,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,12.75
+liz,3,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,4.89
+barb,4,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,5.91
+dave monkey,7,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,6.7
+purdue pete,8,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,10.21
+peninsular danny,10,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,12.25
+gully,11,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,3.33
+jake,13,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,9.48
+terry,14,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,3.84
+tyler,15,Baylor,Syracuse,9,$0.0,0.0%,0.0%,0.0%,10.31
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Murray St.,Marquette,10,$192.82,74.0%,15.0%,0.0%,1.46
+gully,11,Murray St.,Marquette,10,$92.38,25.0%,49.0%,0.0%,2.16
+chad,5,Murray St.,Marquette,10,$24.8,5.0%,20.0%,0.0%,2.84
+terry,14,Murray St.,Marquette,10,$18.6,5.0%,10.0%,0.0%,4.06
+bob,0,Murray St.,Marquette,10,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,11.63
+liz,3,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,5.32
+barb,4,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,4.88
+dave monkey,7,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,6.91
+purdue pete,8,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,13.2
+stef,9,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,13.8
+peninsular danny,10,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,11.37
+jake,13,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,9.17
+tyler,15,Murray St.,Marquette,10,$0.0,0.0%,0.0%,0.0%,9.72
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+chad,5,Florida St.,Vermont,11,$248.0,100.0%,0.0%,0.0%,1.0
+gully,11,Florida St.,Vermont,11,$47.46,0.0%,76.55%,0.0%,2.23
+RF,12,Florida St.,Vermont,11,$17.08,0.0%,27.55%,0.0%,3.37
+bob,0,Florida St.,Vermont,11,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,8.51
+drew,2,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,12.18
+liz,3,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,4.79
+barb,4,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,3.59
+dave monkey,7,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,6.5
+purdue pete,8,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,13.09
+stef,9,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,7.92
+peninsular danny,10,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,13.58
+jake,13,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,10.31
+terry,14,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,7.07
+tyler,15,Florida St.,Vermont,11,$0.0,0.0%,0.0%,0.0%,10.61
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Buffalo,Arizona St./St. John's,12,$168.87,63.0%,20.36%,0.0%,1.7
+terry,14,Buffalo,Arizona St./St. John's,12,$97.96,37.0%,10.0%,0.0%,2.26
+gully,11,Buffalo,Arizona St./St. John's,12,$26.04,0.0%,42.0%,0.0%,2.98
+chad,5,Buffalo,Arizona St./St. John's,12,$20.69,0.0%,33.36%,0.0%,3.13
+bob,0,Buffalo,Arizona St./St. John's,12,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,7.79
+drew,2,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,11.67
+liz,3,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,4.88
+barb,4,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,7.21
+dave monkey,7,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,6.0
+purdue pete,8,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,11.33
+peninsular danny,10,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,13.0
+jake,13,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,9.9
+tyler,15,Buffalo,Arizona St./St. John's,12,$0.0,0.0%,0.0%,0.0%,9.1
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Texas Tech,Northern Ky,13,$248.0,100.0%,0.0%,0.0%,1.0
+liquorman,6,Texas Tech,Northern Ky,13,$45.82,0.0%,73.91%,0.0%,2.27
+stef,9,Texas Tech,Northern Ky,13,$13.58,0.0%,21.91%,0.0%,4.14
+barb,4,Texas Tech,Northern Ky,13,$10.0,0.0%,0.0%,100.0%,16.0
+chad,5,Texas Tech,Northern Ky,13,$3.1,0.0%,5.0%,0.0%,4.21
+bob,0,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,15.0
+dave b.,1,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,9.38
+drew,2,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,13.64
+liz,3,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,5.85
+dave monkey,7,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,7.21
+purdue pete,8,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,12.49
+peninsular danny,10,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,11.92
+gully,11,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,4.1
+jake,13,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,9.98
+terry,14,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,8.24
+tyler,15,Texas Tech,Northern Ky,13,$0.0,0.0%,0.0%,0.0%,10.04
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+liquorman,6,Florida,Nevada,14,$149.7,54.0%,25.45%,0.0%,1.67
+RF,12,Florida,Nevada,14,$118.08,40.0%,30.45%,0.0%,2.01
+chad,5,Florida,Nevada,14,$27.28,6.0%,20.0%,0.0%,3.31
+gully,11,Florida,Nevada,14,$17.98,0.0%,29.0%,0.0%,2.97
+bob,0,Florida,Nevada,14,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,12.94
+liz,3,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,5.0
+barb,4,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,6.38
+purdue pete,8,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,11.78
+peninsular danny,10,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,10.38
+jake,13,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,9.75
+terry,14,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,6.38
+tyler,15,Florida,Nevada,14,$0.0,0.0%,0.0%,0.0%,9.72
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Michigan,Montana,15,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Michigan,Montana,15,$40.69,0.0%,65.64%,0.0%,2.47
+terry,14,Michigan,Montana,15,$13.41,0.0%,21.64%,0.0%,3.46
+bob,0,Michigan,Montana,15,$10.0,0.0%,0.0%,100.0%,16.0
+liquorman,6,Michigan,Montana,15,$7.55,0.0%,12.18%,0.0%,5.75
+gully,11,Michigan,Montana,15,$6.93,0.0%,11.18%,0.0%,3.37
+dave b.,1,Michigan,Montana,15,$0.0,0.0%,0.0%,0.0%,7.81
+drew,2,Michigan,Montana,15,$0.0,0.0%,0.0%,0.0%,12.89
+liz,3,Michigan,Montana,15,$0.0,0.0%,0.0%,0.0%,5.25
+barb,4,Michigan,Montana,15,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Michigan,Montana,15,$0.0,0.0%,0.0%,0.0%,6.78
+purdue pete,8,Michigan,Montana,15,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Michigan,Montana,15,$0.0,0.0%,0.0%,0.0%,10.28
+peninsular danny,10,Michigan,Montana,15,$0.0,0.0%,0.0%,0.0%,11.94
+jake,13,Michigan,Montana,15,$0.0,0.0%,0.0%,0.0%,9.34
+tyler,15,Michigan,Montana,15,$0.0,0.0%,0.0%,0.0%,10.43
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Virginia,Gardner-Webb,16,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Virginia,Gardner-Webb,16,$31.28,0.0%,50.45%,0.0%,4.12
+gully,11,Virginia,Gardner-Webb,16,$24.8,0.0%,40.0%,0.0%,3.09
+bob,0,Virginia,Gardner-Webb,16,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Virginia,Gardner-Webb,16,$8.96,0.0%,14.45%,0.0%,4.65
+drew,2,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,12.09
+liz,3,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,4.01
+barb,4,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,13.54
+liquorman,6,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,7.08
+dave monkey,7,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,5.83
+purdue pete,8,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,14.23
+stef,9,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,10.99
+peninsular danny,10,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,13.39
+jake,13,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,9.23
+terry,14,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,5.83
+tyler,15,Virginia,Gardner-Webb,16,$0.0,0.0%,0.0%,0.0%,10.3
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Oklahoma,Mississippi,17,$148.8,60.0%,0.0%,0.0%,2.31
+terry,14,Oklahoma,Mississippi,17,$114.7,40.0%,25.0%,0.0%,1.95
+chad,5,Oklahoma,Mississippi,17,$46.5,0.0%,75.0%,0.0%,2.25
+bob,0,Oklahoma,Mississippi,17,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,10.99
+liz,3,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,6.0
+barb,4,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,4.05
+dave monkey,7,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,12.0
+peninsular danny,10,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,12.79
+gully,11,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,4.44
+jake,13,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,10.01
+tyler,15,Oklahoma,Mississippi,17,$0.0,0.0%,0.0%,0.0%,9.01
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+liquorman,6,Oregon,Wisconsin,18,$229.01,90.09%,9.0%,0.0%,1.1
+dave b.,1,Oregon,Wisconsin,18,$64.71,18.09%,32.0%,0.0%,2.75
+liz,3,Oregon,Wisconsin,18,$14.26,0.0%,23.0%,0.0%,3.08
+gully,11,Oregon,Wisconsin,18,$9.92,0.0%,16.0%,0.0%,4.18
+barb,4,Oregon,Wisconsin,18,$6.2,0.0%,0.0%,62.0%,15.62
+chad,5,Oregon,Wisconsin,18,$6.2,0.0%,10.0%,0.0%,4.07
+bob,0,Oregon,Wisconsin,18,$3.8,0.0%,0.0%,38.0%,15.38
+drew,2,Oregon,Wisconsin,18,$0.0,0.0%,0.0%,0.0%,13.81
+dave monkey,7,Oregon,Wisconsin,18,$0.0,0.0%,0.0%,0.0%,5.99
+purdue pete,8,Oregon,Wisconsin,18,$0.0,0.0%,0.0%,0.0%,12.0
+stef,9,Oregon,Wisconsin,18,$0.0,0.0%,0.0%,0.0%,9.79
+peninsular danny,10,Oregon,Wisconsin,18,$0.0,0.0%,0.0%,0.0%,13.17
+RF,12,Oregon,Wisconsin,18,$0.0,0.0%,0.0%,0.0%,9.36
+jake,13,Oregon,Wisconsin,18,$0.0,0.0%,0.0%,0.0%,8.27
+terry,14,Oregon,Wisconsin,18,$0.0,0.0%,0.0%,0.0%,8.41
+tyler,15,Oregon,Wisconsin,18,$0.0,0.0%,0.0%,0.0%,8.65
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+gully,11,UC Irvine,Kansas St.,19,$179.18,70.0%,9.0%,0.0%,1.51
+terry,14,UC Irvine,Kansas St.,19,$81.74,22.0%,43.83%,0.0%,2.13
+chad,5,UC Irvine,Kansas St.,19,$40.2,8.0%,32.83%,0.0%,3.0
+liquorman,6,UC Irvine,Kansas St.,19,$20.98,0.0%,33.83%,0.0%,3.41
+bob,0,UC Irvine,Kansas St.,19,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,7.11
+drew,2,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,11.25
+liz,3,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,4.7
+barb,4,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,5.86
+purdue pete,8,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,13.23
+stef,9,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,13.77
+peninsular danny,10,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,11.58
+RF,12,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,8.1
+jake,13,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,9.87
+tyler,15,UC Irvine,Kansas St.,19,$0.0,0.0%,0.0%,0.0%,8.62
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Villanova,Saint Mary's,20,$227.82,89.36%,10.0%,0.0%,1.11
+chad,5,Villanova,Saint Mary's,20,$92.04,16.36%,83.0%,0.0%,1.84
+bob,0,Villanova,Saint Mary's,20,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,4.08
+drew,2,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,13.18
+liz,3,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,4.49
+barb,4,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,4.93
+dave monkey,7,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,8.37
+purdue pete,8,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,13.82
+stef,9,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,10.98
+peninsular danny,10,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,11.0
+gully,11,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,4.71
+jake,13,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,8.49
+terry,14,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,6.52
+tyler,15,Villanova,Saint Mary's,20,$0.0,0.0%,0.0%,0.0%,11.02
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+gully,11,Purdue,Old Dominion,21,$165.09,58.45%,32.45%,0.0%,1.5
+liquorman,6,Purdue,Old Dominion,21,$95.42,28.64%,39.36%,0.0%,2.23
+chad,5,Purdue,Old Dominion,21,$78.18,26.82%,18.82%,0.0%,2.27
+bob,0,Purdue,Old Dominion,21,$10.0,0.0%,0.0%,100.0%,16.0
+RF,12,Purdue,Old Dominion,21,$4.28,0.0%,6.91%,0.0%,4.19
+terry,14,Purdue,Old Dominion,21,$1.13,0.0%,1.82%,0.0%,4.55
+dave b.,1,Purdue,Old Dominion,21,$0.0,0.0%,0.0%,0.0%,10.13
+drew,2,Purdue,Old Dominion,21,$0.0,0.0%,0.0%,0.0%,11.1
+liz,3,Purdue,Old Dominion,21,$0.0,0.0%,0.0%,0.0%,6.0
+barb,4,Purdue,Old Dominion,21,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Purdue,Old Dominion,21,$0.0,0.0%,0.0%,0.0%,6.8
+purdue pete,8,Purdue,Old Dominion,21,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Purdue,Old Dominion,21,$0.0,0.0%,0.0%,0.0%,12.87
+peninsular danny,10,Purdue,Old Dominion,21,$0.0,0.0%,0.0%,0.0%,9.14
+jake,13,Purdue,Old Dominion,21,$0.0,0.0%,0.0%,0.0%,11.12
+tyler,15,Purdue,Old Dominion,21,$0.0,0.0%,0.0%,0.0%,8.58
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Iowa,Cincinnati,22,$215.76,87.0%,0.0%,0.0%,1.26
+gully,11,Iowa,Cincinnati,22,$47.85,0.0%,77.18%,0.0%,2.45
+terry,14,Iowa,Cincinnati,22,$39.68,13.0%,12.0%,0.0%,2.91
+chad,5,Iowa,Cincinnati,22,$11.27,0.0%,18.18%,0.0%,3.31
+bob,0,Iowa,Cincinnati,22,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,8.05
+drew,2,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,12.74
+liz,3,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,5.76
+barb,4,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,5.39
+dave monkey,7,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,6.85
+purdue pete,8,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,11.01
+peninsular danny,10,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,12.2
+jake,13,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,9.51
+tyler,15,Iowa,Cincinnati,22,$0.0,0.0%,0.0%,0.0%,9.44
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Tennessee,Colgate,23,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Tennessee,Colgate,23,$61.61,0.0%,99.36%,0.0%,2.01
+bob,0,Tennessee,Colgate,23,$10.0,0.0%,0.0%,100.0%,16.0
+gully,11,Tennessee,Colgate,23,$3.95,0.0%,6.36%,0.0%,3.36
+dave b.,1,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,5.36
+drew,2,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,11.99
+liz,3,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,3.96
+barb,4,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,5.85
+dave monkey,7,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,7.32
+purdue pete,8,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,13.22
+stef,9,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,9.89
+peninsular danny,10,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,13.59
+jake,13,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,9.49
+terry,14,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,6.66
+tyler,15,Tennessee,Colgate,23,$0.0,0.0%,0.0%,0.0%,10.62
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,North Carolina,Iona,24,$190.45,72.0%,19.18%,0.0%,1.37
+terry,14,North Carolina,Iona,24,$101.68,28.0%,52.0%,0.0%,2.15
+liquorman,6,North Carolina,Iona,24,$10.03,0.0%,16.18%,0.0%,3.59
+bob,0,North Carolina,Iona,24,$10.0,0.0%,0.0%,100.0%,16.0
+chad,5,North Carolina,Iona,24,$6.82,0.0%,11.0%,0.0%,3.85
+gully,11,North Carolina,Iona,24,$5.58,0.0%,9.0%,0.0%,3.59
+dave b.,1,North Carolina,Iona,24,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,North Carolina,Iona,24,$0.0,0.0%,0.0%,0.0%,13.13
+liz,3,North Carolina,Iona,24,$0.0,0.0%,0.0%,0.0%,6.0
+barb,4,North Carolina,Iona,24,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,North Carolina,Iona,24,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,North Carolina,Iona,24,$0.0,0.0%,0.0%,0.0%,13.82
+stef,9,North Carolina,Iona,24,$0.0,0.0%,0.0%,0.0%,10.21
+peninsular danny,10,North Carolina,Iona,24,$0.0,0.0%,0.0%,0.0%,12.05
+jake,13,North Carolina,Iona,24,$0.0,0.0%,0.0%,0.0%,9.6
+tyler,15,North Carolina,Iona,24,$0.0,0.0%,0.0%,0.0%,10.19
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Washington,Utah St.,25,$248.0,100.0%,0.0%,0.0%,1.0
+gully,11,Washington,Utah St.,25,$47.12,0.0%,76.0%,0.0%,2.24
+chad,5,Washington,Utah St.,25,$14.88,0.0%,24.0%,0.0%,2.76
+bob,0,Washington,Utah St.,25,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,6.35
+drew,2,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,11.4
+liz,3,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,4.76
+barb,4,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,4.53
+dave monkey,7,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,6.36
+purdue pete,8,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,11.6
+peninsular danny,10,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,13.0
+jake,13,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,9.6
+terry,14,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,7.72
+tyler,15,Washington,Utah St.,25,$0.0,0.0%,0.0%,0.0%,9.4
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+liquorman,6,Auburn,New Mexio St.,26,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Auburn,New Mexio St.,26,$39.62,0.0%,63.91%,0.0%,2.36
+gully,11,Auburn,New Mexio St.,26,$26.15,0.0%,42.18%,0.0%,2.65
+bob,0,Auburn,New Mexio St.,26,$9.7,0.0%,0.0%,97.0%,15.86
+RF,12,Auburn,New Mexio St.,26,$2.31,0.0%,3.73%,0.0%,4.15
+tyler,15,Auburn,New Mexio St.,26,$0.3,0.0%,0.0%,3.0%,13.93
+dave b.,1,Auburn,New Mexio St.,26,$0.0,0.0%,0.0%,0.0%,8.71
+drew,2,Auburn,New Mexio St.,26,$0.0,0.0%,0.0%,0.0%,11.55
+liz,3,Auburn,New Mexio St.,26,$0.0,0.0%,0.0%,0.0%,5.03
+barb,4,Auburn,New Mexio St.,26,$0.0,0.0%,0.0%,0.0%,9.79
+dave monkey,7,Auburn,New Mexio St.,26,$0.0,0.0%,0.0%,0.0%,6.75
+purdue pete,8,Auburn,New Mexio St.,26,$0.0,0.0%,0.0%,0.0%,11.23
+stef,9,Auburn,New Mexio St.,26,$0.0,0.0%,0.0%,0.0%,13.28
+peninsular danny,10,Auburn,New Mexio St.,26,$0.0,0.0%,0.0%,0.0%,14.8
+jake,13,Auburn,New Mexio St.,26,$0.0,0.0%,0.0%,0.0%,8.44
+terry,14,Auburn,New Mexio St.,26,$0.0,0.0%,0.0%,0.0%,6.11
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Kansas,Northeastern,27,$248.0,100.0%,0.0%,0.0%,1.0
+terry,14,Kansas,Northeastern,27,$24.18,0.0%,39.0%,0.0%,3.36
+gully,11,Kansas,Northeastern,27,$22.94,0.0%,37.0%,0.0%,2.94
+chad,5,Kansas,Northeastern,27,$14.88,0.0%,24.0%,0.0%,3.47
+bob,0,Kansas,Northeastern,27,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,13.23
+liz,3,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,5.77
+barb,4,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,4.09
+dave monkey,7,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,13.77
+stef,9,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,11.0
+peninsular danny,10,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,12.0
+jake,13,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,9.86
+tyler,15,Kansas,Northeastern,27,$0.0,0.0%,0.0%,0.0%,9.14
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Ohio St.,Iowa St.,28,$248.0,100.0%,0.0%,0.0%,1.0
+gully,11,Ohio St.,Iowa St.,28,$45.88,0.0%,74.0%,0.0%,2.3
+chad,5,Ohio St.,Iowa St.,28,$16.12,0.0%,26.0%,0.0%,3.23
+bob,0,Ohio St.,Iowa St.,28,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,7.73
+drew,2,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,12.59
+liz,3,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,6.0
+barb,4,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,3.75
+dave monkey,7,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,7.13
+purdue pete,8,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,13.55
+stef,9,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,10.4
+peninsular danny,10,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,12.74
+jake,13,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,9.64
+terry,14,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,4.2
+tyler,15,Ohio St.,Iowa St.,28,$0.0,0.0%,0.0%,0.0%,10.08
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Houston,Georgia St.,29,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Houston,Georgia St.,29,$57.77,0.0%,93.18%,0.0%,2.07
+bob,0,Houston,Georgia St.,29,$10.0,0.0%,0.0%,100.0%,16.0
+gully,11,Houston,Georgia St.,29,$4.51,0.0%,7.27%,0.0%,3.55
+terry,14,Houston,Georgia St.,29,$4.28,0.0%,6.91%,0.0%,4.09
+dave b.,1,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,7.83
+drew,2,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,11.79
+liz,3,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,4.5
+barb,4,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,14.92
+liquorman,6,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,6.39
+dave monkey,7,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,6.05
+purdue pete,8,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,14.08
+stef,9,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,11.12
+peninsular danny,10,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,13.0
+jake,13,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,9.17
+tyler,15,Houston,Georgia St.,29,$0.0,0.0%,0.0%,0.0%,9.89
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+chad,5,Wofford,Seton Hall,30,$210.69,80.45%,18.0%,0.0%,1.2
+RF,12,Wofford,Seton Hall,30,$99.09,33.45%,26.0%,0.0%,2.3
+gully,11,Wofford,Seton Hall,30,$20.46,0.0%,33.0%,0.0%,2.89
+bob,0,Wofford,Seton Hall,30,$10.0,0.0%,0.0%,100.0%,16.0
+terry,14,Wofford,Seton Hall,30,$3.72,0.0%,6.0%,0.0%,4.24
+dave b.,1,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,10.85
+liz,3,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,4.24
+barb,4,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,7.0
+dave monkey,7,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,6.0
+purdue pete,8,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,11.09
+peninsular danny,10,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,13.0
+jake,13,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,9.08
+tyler,15,Wofford,Seton Hall,30,$0.0,0.0%,0.0%,0.0%,10.98
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+gully,11,Kentucky,Abilene Christ.,31,$149.65,49.91%,41.73%,0.0%,1.58
+RF,12,Kentucky,Abilene Christ.,31,$132.68,49.0%,18.0%,0.0%,2.03
+chad,5,Kentucky,Abilene Christ.,31,$15.73,1.91%,17.73%,0.0%,3.12
+liquorman,6,Kentucky,Abilene Christ.,31,$14.88,0.0%,24.0%,0.0%,3.33
+bob,0,Kentucky,Abilene Christ.,31,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,6.17
+drew,2,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,13.98
+liz,3,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,5.25
+barb,4,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,7.88
+purdue pete,8,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,13.02
+stef,9,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,9.7
+peninsular danny,10,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,12.0
+jake,13,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,8.77
+terry,14,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,6.75
+tyler,15,Kentucky,Abilene Christ.,31,$0.0,0.0%,0.0%,0.0%,10.65
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Duke,UCF,32,$248.0,100.0%,0.0%,0.0%,1.0
+gully,11,Duke,UCF,32,$38.72,0.0%,62.45%,0.0%,2.5
+liquorman,6,Duke,UCF,32,$18.6,0.0%,30.0%,0.0%,2.88
+bob,0,Duke,UCF,32,$10.0,0.0%,0.0%,100.0%,16.0
+terry,14,Duke,UCF,32,$7.72,0.0%,12.45%,0.0%,3.64
+dave b.,1,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,8.25
+drew,2,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,12.17
+liz,3,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,6.07
+barb,4,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,15.0
+chad,5,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,4.89
+dave monkey,7,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,7.43
+purdue pete,8,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,12.17
+peninsular danny,10,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,11.6
+jake,13,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,8.23
+tyler,15,Duke,UCF,32,$0.0,0.0%,0.0%,0.0%,9.93
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Virginia Tech,Liberty,33,$248.0,100.0%,0.0%,0.0%,1.0
+liquorman,6,Virginia Tech,Liberty,33,$40.92,0.0%,66.0%,0.0%,2.34
+chad,5,Virginia Tech,Liberty,33,$21.08,0.0%,34.0%,0.0%,2.66
+bob,0,Virginia Tech,Liberty,33,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,12.17
+liz,3,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,5.68
+barb,4,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,13.37
+stef,9,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,11.21
+peninsular danny,10,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,13.25
+gully,11,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,4.23
+jake,13,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,9.78
+terry,14,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,5.0
+tyler,15,Virginia Tech,Liberty,33,$0.0,0.0%,0.0%,0.0%,9.22
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,LSU,Maryland,34,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,LSU,Maryland,34,$62.0,0.0%,100.0%,0.0%,2.0
+bob,0,LSU,Maryland,34,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,13.3
+liz,3,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,4.26
+barb,4,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,5.02
+dave monkey,7,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,5.58
+purdue pete,8,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,13.57
+stef,9,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,10.63
+peninsular danny,10,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,12.08
+gully,11,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,3.0
+jake,13,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,10.22
+terry,14,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,6.82
+tyler,15,LSU,Maryland,34,$0.0,0.0%,0.0%,0.0%,9.0
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Michigan St.,Minnesota,35,$168.02,62.0%,23.0%,0.0%,1.99
+liquorman,6,Michigan St.,Minnesota,35,$121.35,38.0%,43.73%,0.0%,1.92
+tyler,15,Michigan St.,Minnesota,35,$10.48,0.0%,16.91%,0.0%,3.76
+bob,0,Michigan St.,Minnesota,35,$10.0,0.0%,0.0%,100.0%,16.0
+gully,11,Michigan St.,Minnesota,35,$8.0,0.0%,12.91%,0.0%,4.52
+chad,5,Michigan St.,Minnesota,35,$4.17,0.0%,6.73%,0.0%,3.36
+dave b.,1,Michigan St.,Minnesota,35,$0.0,0.0%,0.0%,0.0%,8.85
+drew,2,Michigan St.,Minnesota,35,$0.0,0.0%,0.0%,0.0%,12.45
+liz,3,Michigan St.,Minnesota,35,$0.0,0.0%,0.0%,0.0%,6.6
+barb,4,Michigan St.,Minnesota,35,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Michigan St.,Minnesota,35,$0.0,0.0%,0.0%,0.0%,8.26
+purdue pete,8,Michigan St.,Minnesota,35,$0.0,0.0%,0.0%,0.0%,12.58
+stef,9,Michigan St.,Minnesota,35,$0.0,0.0%,0.0%,0.0%,10.66
+peninsular danny,10,Michigan St.,Minnesota,35,$0.0,0.0%,0.0%,0.0%,13.97
+jake,13,Michigan St.,Minnesota,35,$0.0,0.0%,0.0%,0.0%,10.15
+terry,14,Michigan St.,Minnesota,35,$0.0,0.0%,0.0%,0.0%,5.51
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Gonzaga,Baylor,36,$248.0,100.0%,0.0%,0.0%,1.0
+terry,14,Gonzaga,Baylor,36,$54.0,0.0%,87.09%,0.0%,2.13
+gully,11,Gonzaga,Baylor,36,$18.66,0.0%,30.09%,0.0%,2.7
+bob,0,Gonzaga,Baylor,36,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,7.07
+drew,2,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,12.63
+liz,3,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,6.11
+barb,4,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,15.0
+chad,5,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,5.19
+liquorman,6,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,4.39
+dave monkey,7,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,8.07
+purdue pete,8,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,10.79
+peninsular danny,10,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,12.32
+jake,13,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,9.97
+tyler,15,Gonzaga,Baylor,36,$0.0,0.0%,0.0%,0.0%,8.21
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Florida St.,Murray St.,37,$167.17,57.18%,40.91%,0.0%,1.44
+chad,5,Florida St.,Murray St.,37,$154.83,50.18%,49.0%,0.0%,1.5
+bob,0,Florida St.,Murray St.,37,$10.0,0.0%,0.0%,100.0%,16.0
+gully,11,Florida St.,Murray St.,37,$6.76,0.0%,10.91%,0.0%,2.89
+dave b.,1,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,8.46
+drew,2,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,12.49
+liz,3,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,5.56
+barb,4,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,4.24
+dave monkey,7,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,7.02
+purdue pete,8,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,8.38
+peninsular danny,10,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,12.51
+jake,13,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,10.24
+terry,14,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,5.03
+tyler,15,Florida St.,Murray St.,37,$0.0,0.0%,0.0%,0.0%,10.76
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Texas Tech,Buffalo,38,$248.0,100.0%,0.0%,0.0%,1.0
+liquorman,6,Texas Tech,Buffalo,38,$38.38,0.0%,61.91%,0.0%,2.42
+chad,5,Texas Tech,Buffalo,38,$16.68,0.0%,26.91%,0.0%,3.42
+bob,0,Texas Tech,Buffalo,38,$8.2,0.0%,0.0%,82.0%,15.82
+stef,9,Texas Tech,Buffalo,38,$7.44,0.0%,12.0%,0.0%,7.21
+barb,4,Texas Tech,Buffalo,38,$1.8,0.0%,0.0%,18.0%,15.18
+dave b.,1,Texas Tech,Buffalo,38,$0.0,0.0%,0.0%,0.0%,8.97
+drew,2,Texas Tech,Buffalo,38,$0.0,0.0%,0.0%,0.0%,13.82
+liz,3,Texas Tech,Buffalo,38,$0.0,0.0%,0.0%,0.0%,5.49
+dave monkey,7,Texas Tech,Buffalo,38,$0.0,0.0%,0.0%,0.0%,7.41
+purdue pete,8,Texas Tech,Buffalo,38,$0.0,0.0%,0.0%,0.0%,12.68
+peninsular danny,10,Texas Tech,Buffalo,38,$0.0,0.0%,0.0%,0.0%,11.29
+gully,11,Texas Tech,Buffalo,38,$0.0,0.0%,0.0%,0.0%,3.49
+jake,13,Texas Tech,Buffalo,38,$0.0,0.0%,0.0%,0.0%,9.92
+terry,14,Texas Tech,Buffalo,38,$0.0,0.0%,0.0%,0.0%,7.03
+tyler,15,Texas Tech,Buffalo,38,$0.0,0.0%,0.0%,0.0%,10.23
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Michigan,Florida,39,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Michigan,Florida,39,$61.32,0.0%,98.91%,0.0%,2.01
+bob,0,Michigan,Florida,39,$10.0,0.0%,0.0%,100.0%,16.0
+terry,14,Michigan,Florida,39,$6.76,0.0%,10.91%,0.0%,3.45
+dave b.,1,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,7.61
+drew,2,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,12.62
+liz,3,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,5.0
+barb,4,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,6.78
+dave monkey,7,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,6.61
+purdue pete,8,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,10.64
+peninsular danny,10,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,12.3
+gully,11,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,3.44
+jake,13,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,9.16
+tyler,15,Michigan,Florida,39,$0.0,0.0%,0.0%,0.0%,10.15
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Virginia,Oklahoma,40,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Virginia,Oklahoma,40,$31.62,0.0%,51.0%,0.0%,3.96
+gully,11,Virginia,Oklahoma,40,$24.18,0.0%,39.0%,0.0%,2.91
+bob,0,Virginia,Oklahoma,40,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Virginia,Oklahoma,40,$6.2,0.0%,10.0%,0.0%,4.83
+drew,2,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,12.19
+liz,3,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,4.28
+barb,4,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,13.25
+liquorman,6,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,7.05
+dave monkey,7,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,6.44
+purdue pete,8,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,14.32
+stef,9,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,10.97
+peninsular danny,10,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,13.43
+jake,13,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,9.12
+terry,14,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,5.23
+tyler,15,Virginia,Oklahoma,40,$0.0,0.0%,0.0%,0.0%,10.49
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Oregon,UC Irvine,41,$248.0,100.0%,0.0%,0.0%,1.0
+liquorman,6,Oregon,UC Irvine,41,$39.29,0.0%,63.36%,0.0%,2.56
+chad,5,Oregon,UC Irvine,41,$21.7,0.0%,35.0%,0.0%,3.15
+gully,11,Oregon,UC Irvine,41,$10.15,0.0%,16.36%,0.0%,3.01
+bob,0,Oregon,UC Irvine,41,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,8.37
+drew,2,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,13.42
+liz,3,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,5.46
+barb,4,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,13.5
+stef,9,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,9.07
+peninsular danny,10,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,12.01
+jake,13,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,10.0
+terry,14,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,5.54
+tyler,15,Oregon,UC Irvine,41,$0.0,0.0%,0.0%,0.0%,10.45
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+gully,11,Purdue,Villanova,42,$174.22,70.0%,1.0%,0.0%,1.68
+chad,5,Purdue,Villanova,42,$116.45,29.45%,70.0%,0.0%,1.71
+RF,12,Purdue,Villanova,42,$22.55,5.45%,14.55%,0.0%,3.57
+bob,0,Purdue,Villanova,42,$10.0,0.0%,0.0%,100.0%,16.0
+terry,14,Purdue,Villanova,42,$7.78,0.0%,12.55%,0.0%,3.99
+dave b.,1,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,8.92
+drew,2,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,11.98
+liz,3,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,6.06
+barb,4,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,3.9
+dave monkey,7,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,6.82
+purdue pete,8,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,12.4
+peninsular danny,10,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,10.22
+jake,13,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,11.31
+tyler,15,Purdue,Villanova,42,$0.0,0.0%,0.0%,0.0%,8.17
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Tennessee,Iowa,43,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Tennessee,Iowa,43,$62.0,0.0%,100.0%,0.0%,2.0
+bob,0,Tennessee,Iowa,43,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,6.67
+drew,2,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,12.23
+liz,3,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,3.66
+barb,4,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,5.44
+dave monkey,7,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,6.94
+purdue pete,8,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,13.0
+stef,9,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,9.76
+peninsular danny,10,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,13.64
+gully,11,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,3.39
+jake,13,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,9.73
+terry,14,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,6.42
+tyler,15,Tennessee,Iowa,43,$0.0,0.0%,0.0%,0.0%,10.51
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,North Carolina,Washington,44,$193.13,71.0%,27.5%,0.0%,1.31
+terry,14,North Carolina,Washington,44,$115.94,29.0%,71.0%,0.0%,1.71
+bob,0,North Carolina,Washington,44,$10.0,0.0%,0.0%,100.0%,16.0
+liquorman,6,North Carolina,Washington,44,$4.65,0.0%,7.5%,0.0%,3.75
+gully,11,North Carolina,Washington,44,$4.65,0.0%,7.5%,0.0%,3.52
+dave b.,1,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,13.24
+liz,3,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,6.0
+barb,4,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,15.0
+chad,5,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,4.43
+dave monkey,7,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,13.76
+stef,9,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,10.35
+peninsular danny,10,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,12.0
+jake,13,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,9.21
+tyler,15,North Carolina,Washington,44,$0.0,0.0%,0.0%,0.0%,10.37
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+gully,11,Auburn,Kansas,45,$128.0,44.36%,29.0%,0.0%,1.82
+liquorman,6,Auburn,Kansas,45,$105.68,32.36%,41.0%,0.0%,1.93
+RF,12,Auburn,Kansas,45,$101.68,38.0%,12.0%,0.0%,2.3
+bob,0,Auburn,Kansas,45,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,8.72
+drew,2,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,10.53
+liz,3,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,5.38
+barb,4,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,13.48
+chad,5,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,3.87
+dave monkey,7,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,7.07
+purdue pete,8,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,11.55
+stef,9,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,11.86
+peninsular danny,10,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,15.0
+jake,13,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,8.22
+terry,14,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,5.37
+tyler,15,Auburn,Kansas,45,$0.0,0.0%,0.0%,0.0%,12.19
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Houston,Ohio St.,46,$210.8,80.0%,20.0%,0.0%,1.2
+chad,5,Houston,Ohio St.,46,$99.2,20.0%,80.0%,0.0%,1.8
+bob,0,Houston,Ohio St.,46,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,7.92
+drew,2,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,11.76
+liz,3,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,3.68
+barb,4,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,6.62
+dave monkey,7,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,5.99
+purdue pete,8,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,11.21
+peninsular danny,10,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,13.0
+gully,11,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,3.56
+jake,13,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,9.19
+terry,14,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,5.18
+tyler,15,Houston,Ohio St.,46,$0.0,0.0%,0.0%,0.0%,9.81
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Kentucky,Wofford,47,$216.44,85.27%,8.0%,0.0%,1.2
+gully,11,Kentucky,Wofford,47,$93.17,25.73%,47.36%,0.0%,2.0
+chad,5,Kentucky,Wofford,47,$30.72,4.55%,31.36%,0.0%,2.61
+bob,0,Kentucky,Wofford,47,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,6.42
+drew,2,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,14.0
+liz,3,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,4.99
+barb,4,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,4.48
+dave monkey,7,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,7.25
+purdue pete,8,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,13.0
+stef,9,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,9.83
+peninsular danny,10,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,12.0
+jake,13,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,9.49
+terry,14,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,6.28
+tyler,15,Kentucky,Wofford,47,$0.0,0.0%,0.0%,0.0%,10.65
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Duke,Virginia Tech,48,$248.0,100.0%,0.0%,0.0%,1.0
+gully,11,Duke,Virginia Tech,48,$48.36,0.0%,78.0%,0.0%,2.23
+chad,5,Duke,Virginia Tech,48,$13.64,0.0%,22.0%,0.0%,2.78
+bob,0,Duke,Virginia Tech,48,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,12.81
+liz,3,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,5.3
+barb,4,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,4.68
+dave monkey,7,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,6.88
+purdue pete,8,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,10.8
+peninsular danny,10,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,12.19
+jake,13,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,9.19
+terry,14,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,4.85
+tyler,15,Duke,Virginia Tech,48,$0.0,0.0%,0.0%,0.0%,10.01
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+liquorman,6,Michigan St.,LSU,49,$163.79,61.55%,18.0%,0.0%,1.7
+RF,12,Michigan St.,LSU,49,$97.96,36.0%,14.0%,0.0%,3.26
+chad,5,Michigan St.,LSU,49,$29.65,6.55%,21.64%,0.0%,2.81
+gully,11,Michigan St.,LSU,49,$26.43,0.0%,42.64%,0.0%,3.16
+bob,0,Michigan St.,LSU,49,$10.0,0.0%,0.0%,100.0%,16.0
+terry,14,Michigan St.,LSU,49,$1.24,0.0%,2.0%,0.0%,4.08
+dave b.,1,Michigan St.,LSU,49,$0.0,0.0%,0.0%,0.0%,8.91
+drew,2,Michigan St.,LSU,49,$0.0,0.0%,0.0%,0.0%,11.91
+liz,3,Michigan St.,LSU,49,$0.0,0.0%,0.0%,0.0%,6.06
+barb,4,Michigan St.,LSU,49,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Michigan St.,LSU,49,$0.0,0.0%,0.0%,0.0%,7.4
+purdue pete,8,Michigan St.,LSU,49,$0.0,0.0%,0.0%,0.0%,13.21
+stef,9,Michigan St.,LSU,49,$0.0,0.0%,0.0%,0.0%,11.05
+peninsular danny,10,Michigan St.,LSU,49,$0.0,0.0%,0.0%,0.0%,13.79
+jake,13,Michigan St.,LSU,49,$0.0,0.0%,0.0%,0.0%,9.82
+tyler,15,Michigan St.,LSU,49,$0.0,0.0%,0.0%,0.0%,7.48
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Gonzaga,Florida St.,50,$248.0,100.0%,0.0%,0.0%,1.0
+gully,11,Gonzaga,Florida St.,50,$42.78,0.0%,69.0%,0.0%,2.45
+chad,5,Gonzaga,Florida St.,50,$13.02,0.0%,21.0%,0.0%,3.1
+bob,0,Gonzaga,Florida St.,50,$10.0,0.0%,0.0%,100.0%,16.0
+terry,14,Gonzaga,Florida St.,50,$6.2,0.0%,10.0%,0.0%,3.74
+dave b.,1,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,12.87
+liz,3,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,5.76
+barb,4,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,4.78
+dave monkey,7,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,11.0
+peninsular danny,10,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,12.1
+jake,13,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,9.39
+tyler,15,Gonzaga,Florida St.,50,$0.0,0.0%,0.0%,0.0%,9.56
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Texas Tech,Michigan,51,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Texas Tech,Michigan,51,$28.86,0.0%,46.55%,0.0%,2.75
+liquorman,6,Texas Tech,Michigan,51,$24.12,0.0%,38.91%,0.0%,2.85
+gully,11,Texas Tech,Michigan,51,$17.64,0.0%,28.45%,0.0%,3.12
+bob,0,Texas Tech,Michigan,51,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,8.24
+drew,2,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,13.17
+liz,3,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,4.97
+barb,4,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,7.1
+purdue pete,8,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,12.49
+stef,9,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,10.77
+peninsular danny,10,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,13.34
+jake,13,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,9.42
+terry,14,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,5.95
+tyler,15,Texas Tech,Michigan,51,$0.0,0.0%,0.0%,0.0%,9.41
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Virginia,Oregon,52,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Virginia,Oregon,52,$62.0,0.0%,100.0%,0.0%,2.0
+bob,0,Virginia,Oregon,52,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,5.88
+drew,2,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,10.61
+liz,3,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,5.32
+barb,4,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,14.32
+liquorman,6,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,7.64
+dave monkey,7,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,6.94
+purdue pete,8,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,14.28
+stef,9,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,11.76
+peninsular danny,10,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,12.55
+gully,11,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,3.84
+jake,13,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,9.84
+terry,14,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,3.22
+tyler,15,Virginia,Oregon,52,$0.0,0.0%,0.0%,0.0%,10.57
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Purdue,Tennessee,53,$167.63,61.0%,26.36%,0.0%,1.64
+gully,11,Purdue,Tennessee,53,$96.72,29.0%,40.0%,0.0%,2.2
+chad,5,Purdue,Tennessee,53,$54.79,10.0%,48.36%,0.0%,2.32
+bob,0,Purdue,Tennessee,53,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,12.59
+liz,3,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,5.9
+barb,4,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,4.36
+dave monkey,7,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,14.0
+stef,9,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,11.5
+peninsular danny,10,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,11.82
+jake,13,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,9.62
+terry,14,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,4.29
+tyler,15,Purdue,Tennessee,53,$0.0,0.0%,0.0%,0.0%,9.18
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Auburn,North Carolina,54,$232.44,91.73%,8.0%,0.0%,1.08
+gully,11,Auburn,North Carolina,54,$71.47,10.73%,72.36%,0.0%,2.06
+liquorman,6,Auburn,North Carolina,54,$13.87,0.0%,22.36%,0.0%,3.03
+bob,0,Auburn,North Carolina,54,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,7.75
+drew,2,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,11.83
+liz,3,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,5.59
+barb,4,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,15.0
+chad,5,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,3.76
+dave monkey,7,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,7.22
+purdue pete,8,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,12.63
+stef,9,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,11.09
+peninsular danny,10,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,14.0
+jake,13,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,9.0
+terry,14,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,5.34
+tyler,15,Auburn,North Carolina,54,$0.0,0.0%,0.0%,0.0%,10.41
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Kentucky,Houston,55,$166.78,60.0%,29.0%,0.0%,1.51
+gully,11,Kentucky,Houston,55,$100.44,31.0%,38.0%,0.0%,2.0
+chad,5,Kentucky,Houston,55,$42.78,9.0%,33.0%,0.0%,2.49
+bob,0,Kentucky,Houston,55,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,13.58
+liz,3,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,5.23
+barb,4,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,4.38
+dave monkey,7,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,13.42
+stef,9,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,10.11
+peninsular danny,10,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,12.0
+jake,13,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,9.52
+terry,14,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,5.37
+tyler,15,Kentucky,Houston,55,$0.0,0.0%,0.0%,0.0%,10.37
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Michigan St.,Duke,56,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Michigan St.,Duke,56,$62.0,0.0%,100.0%,0.0%,2.0
+bob,0,Michigan St.,Duke,56,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,12.03
+liz,3,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,5.92
+barb,4,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,4.0
+dave monkey,7,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,13.81
+stef,9,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,11.0
+peninsular danny,10,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,12.96
+gully,11,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,3.35
+jake,13,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,10.0
+terry,14,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,4.18
+tyler,15,Michigan St.,Duke,56,$0.0,0.0%,0.0%,0.0%,9.0
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Texas Tech,Gonzaga,57,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Texas Tech,Gonzaga,57,$45.99,0.0%,74.18%,0.0%,2.26
+gully,11,Texas Tech,Gonzaga,57,$20.57,0.0%,33.18%,0.0%,2.67
+bob,0,Texas Tech,Gonzaga,57,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,13.34
+liz,3,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,5.24
+barb,4,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,4.25
+dave monkey,7,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,13.01
+stef,9,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,10.85
+peninsular danny,10,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,12.65
+jake,13,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,9.23
+terry,14,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,5.28
+tyler,15,Texas Tech,Gonzaga,57,$0.0,0.0%,0.0%,0.0%,9.92
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Virginia,Purdue,58,$248.0,100.0%,0.0%,0.0%,1.0
+chad,5,Virginia,Purdue,58,$62.0,0.0%,100.0%,0.0%,2.0
+bob,0,Virginia,Purdue,58,$10.0,0.0%,0.0%,100.0%,16.0
+dave b.,1,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,4.9
+drew,2,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,12.0
+liz,3,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,5.1
+barb,4,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,15.0
+liquorman,6,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,6.7
+dave monkey,7,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,7.71
+purdue pete,8,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,13.4
+stef,9,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,10.5
+peninsular danny,10,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,13.6
+gully,11,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,3.4
+jake,13,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,9.28
+terry,14,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,5.05
+tyler,15,Virginia,Purdue,58,$0.0,0.0%,0.0%,0.0%,10.22
+
+name,userId,winner,loser,game_id,avg money,first%,second%,last%,avg place
+RF,12,Auburn,Kentucky,59,$248.0,100.0%,0.0%,0.0%,1.0
+gully,11,Auburn,Kentucky,59,$46.05,0.0%,74.27%,0.0%,2.65
+liquorman,6,Auburn,Kentucky,59,$21.14,0.0%,34.09%,0.0%,2.85
+bob,0,Auburn,Kentucky,59,$10.0,0.0%,0.0%,100.0%,16.0
+chad,5,Auburn,Kentucky,59,$9.58,0.0%,15.45%,0.0%,3.34
+terry,14,Auburn,Kentucky,59,$4.51,0.0%,7.27%,0.0%,4.62
+dave b.,1,Auburn,Kentucky,59,$0.0,0.0%,0.0%,0.0%,8.0
+drew,2,Auburn,Kentucky,59,$0.0,0.0%,0.0%,0.0%,11.71
+liz,3,Auburn,Kentucky,59,$0.0,0.0%,0.0%,0.0%,6.0
+barb,4,Auburn,Kentucky,59,$0.0,0.0%,0.0%,0.0%,15.0
+dave monkey,7,Auburn,Kentucky,59,$0.0,0.0%,0.0%,0.0%,7.0
+purdue pete,8,Auburn,Kentucky,59,$0.0,0.0%,0.0%,0.0%,13.93
+stef,9,Auburn,Kentucky,59,$0.0,0.0%,0.0%,0.0%,11.17
+peninsular danny,10,Auburn,Kentucky,59,$0.0,0.0%,0.0%,0.0%,12.78
+jake,13,Auburn,Kentucky,59,$0.0,0.0%,0.0%,0.0%,9.08
+tyler,15,Auburn,Kentucky,59,$0.0,0.0%,0.0%,0.0%,10.06
+
