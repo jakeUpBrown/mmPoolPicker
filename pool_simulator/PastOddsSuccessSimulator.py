@@ -3,7 +3,7 @@ import os
 
 from pool_simulator import PoolBuilder, BranchRunner
 from pool_simulator.utils.DataLoader import CurrentYearPicks, PastPicks
-from pool_simulator.utils.FilePathConstants import FilePathConstants
+from pool_simulator.utils import FilePathConstants
 from pool_simulator.PicksMetaData import PicksMetaData
 
 

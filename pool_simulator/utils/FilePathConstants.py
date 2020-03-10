@@ -1,16 +1,11 @@
-class FilePathConstants:
-    @staticmethod
-    def get_data_dir():
-        return "C:\\Users\\jakeE\\PycharmProjects\\mmPoolPicker\\data\\"
+def get_data_dir():
+    return "C:\\Users\\jakeE\\PycharmProjects\\mmPoolPicker\\mmPoolPicker\\data\\"
 
-    @staticmethod
-    def get_data_file(filename):
-        return FilePathConstants.get_data_dir() + filename
+def get_data_file(filename):
+    return get_data_dir() + filename
 
-    @staticmethod
-    def get_output_dir():
-        return "C:\\Users\\jakeE\\PycharmProjects\\mmPoolPicker\\output\\"
+def get_output_dir():
+    return "C:\\Users\\jakeE\\PycharmProjects\\mmPoolPicker\\mmPoolPicker\\output\\"
 
-    @staticmethod
-    def get_output_file(filename):
-        return FilePathConstants.get_output_dir() + filename
+def get_output_file(filename):
+    return get_output_dir() + filename

@@ -1,0 +1,450 @@
+[
+  {
+    "id": 0,
+    "seed": 1,
+    "name": "Duke",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 1,
+    "seed": 16,
+    "name": "NC Central/N. Dak. St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 2,
+    "seed": 8,
+    "name": "VCU",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 3,
+    "seed": 9,
+    "name": "UCF",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 4,
+    "seed": 5,
+    "name": "Mississippi St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 5,
+    "seed": 12,
+    "name": "Liberty",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 6,
+    "seed": 4,
+    "name": "Virginia Tech",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 7,
+    "seed": 13,
+    "name": "Saint Louis",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 8,
+    "seed": 6,
+    "name": "Maryland",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 9,
+    "seed": 11,
+    "name": "Belmont",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 10,
+    "seed": 3,
+    "name": "LSU",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 11,
+    "seed": 14,
+    "name": "Yale",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 12,
+    "seed": 7,
+    "name": "Louisville",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 13,
+    "seed": 10,
+    "name": "Minnesota",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 14,
+    "seed": 2,
+    "name": "Michigan St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 15,
+    "seed": 15,
+    "name": "Bradley",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 16,
+    "seed": 1,
+    "name": "Gonzaga",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 17,
+    "seed": 16,
+    "name": "F. Dickinson",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 18,
+    "seed": 8,
+    "name": "Syracuse",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 19,
+    "seed": 9,
+    "name": "Baylor",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 20,
+    "seed": 5,
+    "name": "Marquette",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 21,
+    "seed": 12,
+    "name": "Murray St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 22,
+    "seed": 4,
+    "name": "Florida St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 23,
+    "seed": 13,
+    "name": "Vermont",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 24,
+    "seed": 6,
+    "name": "Buffalo",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 25,
+    "seed": 11,
+    "name": "Arizona St./St. John's",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 26,
+    "seed": 3,
+    "name": "Texas Tech",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 27,
+    "seed": 14,
+    "name": "Northern Ky",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 28,
+    "seed": 7,
+    "name": "Nevada",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 29,
+    "seed": 10,
+    "name": "Florida",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 30,
+    "seed": 2,
+    "name": "Michigan",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 31,
+    "seed": 15,
+    "name": "Montana",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 32,
+    "seed": 1,
+    "name": "Virginia",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 33,
+    "seed": 16,
+    "name": "Gardner-Webb",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 34,
+    "seed": 8,
+    "name": "Mississippi",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 35,
+    "seed": 9,
+    "name": "Oklahoma",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 36,
+    "seed": 5,
+    "name": "Wisconsin",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 37,
+    "seed": 12,
+    "name": "Oregon",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 38,
+    "seed": 4,
+    "name": "Kansas St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 39,
+    "seed": 13,
+    "name": "UC Irvine",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 40,
+    "seed": 6,
+    "name": "Villanova",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 41,
+    "seed": 11,
+    "name": "Saint Mary's",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 42,
+    "seed": 3,
+    "name": "Purdue",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 43,
+    "seed": 14,
+    "name": "Old Dominion",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 44,
+    "seed": 7,
+    "name": "Cincinnati",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 45,
+    "seed": 10,
+    "name": "Iowa",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 46,
+    "seed": 2,
+    "name": "Tennessee",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 47,
+    "seed": 15,
+    "name": "Colgate",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 48,
+    "seed": 1,
+    "name": "North Carolina",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 49,
+    "seed": 16,
+    "name": "Iona",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 50,
+    "seed": 8,
+    "name": "Utah St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 51,
+    "seed": 9,
+    "name": "Washington",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 52,
+    "seed": 5,
+    "name": "Auburn",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 53,
+    "seed": 12,
+    "name": "New Mexio St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 54,
+    "seed": 4,
+    "name": "Kansas",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 55,
+    "seed": 13,
+    "name": "Northeastern",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 56,
+    "seed": 6,
+    "name": "Iowa St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 57,
+    "seed": 11,
+    "name": "Ohio St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 58,
+    "seed": 3,
+    "name": "Houston",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 59,
+    "seed": 14,
+    "name": "Georgia St.",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 60,
+    "seed": 7,
+    "name": "Wofford",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 61,
+    "seed": 10,
+    "name": "Seton Hall",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 62,
+    "seed": 2,
+    "name": "Kentucky",
+    "isElim": false,
+    "wins": 0
+  },
+  {
+    "id": 63,
+    "seed": 15,
+    "name": "Abilene Christ.",
+    "isElim": false,
+    "wins": 0
+  }
+]

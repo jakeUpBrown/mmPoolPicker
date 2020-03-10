@@ -1,6 +1,6 @@
 from pool_simulator import PoolBuilder
 from pool_simulator.utils.DataLoader import PastPicks
-from pool_simulator.utils.FilePathConstants import FilePathConstants
+from pool_simulator.utils import FilePathConstants
 from pool_simulator.PicksMetaData import PicksMetaData
 
 

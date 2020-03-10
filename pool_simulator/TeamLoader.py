@@ -1,9 +1,14 @@
 import os
+import json
+
 from typing import List
 
-from pool_simulator.utils.FilePathConstants import FilePathConstants
+from pool_simulator.utils.DataLoader import CurrentYearPicks
+
+from pool_simulator.utils import FilePathConstants
 from pool_simulator.Team import Team
 from pool_simulator.Team import TeamInfo
+from pool_simulator.Bracket import Bracket
 from pool_simulator.utils import Utils
 
 
@@ -43,3 +48,17 @@ class TeamInfoContainer:
             teams.append(team)
 
         return teams
+
+    @staticmethod
+    def generate_teams_json():
+        teamsList = TeamInfoContainer.create_team_instances()
+        bracket = Bracket(teamsList)
+        current_wins = CurrentYearPicks.year.wins
+        bracket.load_wins(current_wins)
+        updatedTeamsList = bracket.team_list
+        teamJsonArray = []
+        for team in updatedTeamsList:
+            teamJsonArray.append(team.get_json())
+
+        with open(FilePathConstants.get_output_file("teams-list.json"), "w") as outfile:
+            outfile.write(json.dumps(teamJsonArray, indent=2))

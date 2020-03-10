@@ -1,3 +1,4 @@
+import json
 
 class TeamInfo:
     def __init__(self, team_num, seed, team_name, adj_em, adj_t):
@@ -23,3 +24,12 @@ class Team:
     def reset(self):
         self.wins = 0
 
+    def get_json(self):
+        teamJson = json.loads('{}')
+        teamJson['id'] = self.team_info.team_num
+        teamJson['seed'] = self.team_info.seed
+        teamJson['name'] = self.team_info.team_name
+        teamJson['isElim'] = self.elim
+        teamJson['wins'] = self.wins
+
+        return teamJson

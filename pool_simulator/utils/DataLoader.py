@@ -2,7 +2,7 @@ import os
 import random
 import copy
 
-from pool_simulator.utils.FilePathConstants import FilePathConstants
+from pool_simulator.utils import FilePathConstants
 from pool_simulator.Picks import Picks
 from pool_simulator.PicksMetaData import PicksMetaData
 

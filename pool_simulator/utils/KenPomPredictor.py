@@ -6,7 +6,7 @@ def getTeam1WinProb(adj_em1, adj_t1, adj_em2, adj_t2, round_num):
     # KenPom uses 11 points for the standard deviation. I want to increase that as the rounds progress
     # the reasoning for this sigma growth is that the matchups should move closer to a coin-flip as teams advance.
     sigma_growth_coeff = 1
-    sigma = 11 + (sigma_growth_coeff * (round_num - 1))
+    sigma = 11 + (sigma_growth_coeff * round_num)
 
     proj_spread = (adj_em1 - adj_em2) * (adj_t1 + adj_t2) / 200
     win_prob = 1 - (.5 * (1 + math.erf((0 - proj_spread) / (sigma*math.sqrt(2)))))

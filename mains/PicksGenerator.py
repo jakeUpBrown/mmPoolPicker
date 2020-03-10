@@ -1,7 +1,7 @@
 import os
 import json
 
-from pool_simulator.utils.FilePathConstants import FilePathConstants
+from pool_simulator.utils import FilePathConstants
 
 def generatePicks():
 

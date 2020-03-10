@@ -10,7 +10,7 @@ from pool_simulator.utils.DataLoader import CurrentYearPicks
 
 # load in wins
 from pool_simulator import PoolBuilder, BranchRunner
-from pool_simulator.utils.FilePathConstants import FilePathConstants
+from pool_simulator.utils import FilePathConstants
 
 
 def run_current_year_sim():

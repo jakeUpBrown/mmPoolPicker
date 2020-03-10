@@ -92,11 +92,11 @@ class PicksMetaData:
                 "," + str(self.get_last_perc()) + '%'
                 "," + str(self.get_avg_place()) + "\n")
 
-    def get_bad_beat_file_output(self, winnerName, loserName, game_id):
+    def get_bad_beat_file_output(self, team_id, num_wins, game_id):
         return (self.name +
                 "," + self.user_id +
-                "," + winnerName +
-                "," + loserName +
+                "," + str(team_id) +
+                "," + str(num_wins) +
                 "," + str(game_id) +
                 ",$" + str(self.get_avg_money()) +
                 "," + str(self.get_first_perc()) + '%'
@@ -130,7 +130,7 @@ class PicksMetaData:
 
     @staticmethod
     def get_bad_beats_row_header():
-        return "name,user_id,winner,loser,game_id,avg money,first%,second%,last%,avg place\n"
+        return "name,user_id,team_id,num_wins,game_id,avg money,first%,second%,last%,avg place\n"
 
     def subtract_other_metadata(self, meta_data):
         self.first_count -= meta_data.first_count

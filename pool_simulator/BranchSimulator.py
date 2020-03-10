@@ -2,7 +2,7 @@ import os
 
 from pool_simulator.utils.DataLoader import CurrentYearPicks
 from pool_simulator import PoolBuilder, BranchRunner
-from pool_simulator.utils.FilePathConstants import FilePathConstants
+from pool_simulator.utils import FilePathConstants
 
 
 def run_current_round_branches_sim():
@@ -104,7 +104,7 @@ def run_bad_beats_sim():
         team1_won = current_wins[branch.team1_index] > current_wins[branch.team2_index]
 
         new_wins = current_wins.copy()
-        new_wins[branch.team1_index if team1_won else branch.team2_index] = branch.round_num - 1
+        new_wins[branch.team1_index if team1_won else branch.team2_index] = branch.round_num
         new_wins[branch.team2_index if team1_won else branch.team1_index] += 1
 
         # run simulation
