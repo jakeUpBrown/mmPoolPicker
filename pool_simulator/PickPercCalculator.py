@@ -19,8 +19,7 @@ def get_metadata_for_pick_index(index):
     num_random_set_iters = 200
     num_bracket_iters = 200
 
-    pool = PoolBuilder.build_pool()
-    pool.setMyPicks(my_picks)
+    pool = PoolBuilder.build_pool(my_picks)
 
     # for x -> number of specified random set iterations, generate random set of opponent picks
     for x in range(num_random_set_iters):

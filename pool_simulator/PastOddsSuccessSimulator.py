@@ -11,8 +11,7 @@ def get_metadata_for_every_past_pick():
     # load in my picks
     picks = CurrentYearPicks.allPicks
 
-    pool = PoolBuilder.build_pool()
-    pool.picks = picks
+    pool = PoolBuilder.build_pool(picks)
 
     current_wins = CurrentYearPicks.year.wins
     num_bracket_iters = 10000

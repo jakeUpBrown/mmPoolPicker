@@ -60,5 +60,5 @@ class TeamInfoContainer:
         for team in updatedTeamsList:
             teamJsonArray.append(team.get_json())
 
-        with open(FilePathConstants.get_output_file("teams-list.json"), "w") as outfile:
+        with open(FilePathConstants.get_output_file("teams.json"), "w") as outfile:
             outfile.write(json.dumps(teamJsonArray, indent=2))

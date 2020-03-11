@@ -18,8 +18,10 @@ class Year:
         self.wins = list()
         self.averageValues = list()
 
+
     def appendPick(self, pick):
         self.picks.append(pick)
+
 
     def calcAveragePickValues(self):
         self.averageValues = list()
@@ -55,7 +57,7 @@ def load_expected_average():
 
 def load_current_odds():
     current_odds_meta_data = list()
-    with open(os.path.abspath(FilePathConstants.get_output_file("current-odds.csv")), "r") as infile:
+    with open(os.path.abspath(FilePathConstants.get_output_file("currentOdds.csv")), "r") as infile:
 
         first = True
 

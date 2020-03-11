@@ -2,7 +2,7 @@ import math
 import random
 
 
-def getTeam1WinProb(adj_em1, adj_t1, adj_em2, adj_t2, round_num):
+def get_team1_win_prob(adj_em1, adj_t1, adj_em2, adj_t2, round_num):
     # KenPom uses 11 points for the standard deviation. I want to increase that as the rounds progress
     # the reasoning for this sigma growth is that the matchups should move closer to a coin-flip as teams advance.
     sigma_growth_coeff = 1
@@ -25,7 +25,7 @@ def get_random_outcome(win_prob):
 
 # simulate the matchup and return boolean of whether team 1 won
 def simulate_matchup(team1_info, team2_info, round_num):
-    winProb = getTeam1WinProb(team1_info.adj_em, team1_info.adj_t, team2_info.adj_em, team2_info.adj_t, round_num)
+    winProb = get_team1_win_prob(team1_info.adj_em, team1_info.adj_t, team2_info.adj_em, team2_info.adj_t, round_num)
 
     return get_random_outcome(winProb)
 

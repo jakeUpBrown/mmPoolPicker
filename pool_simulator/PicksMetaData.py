@@ -13,6 +13,7 @@ class PicksMetaData:
         self.last_count = 0
         self.place_total = 0
         self.money_total = 0
+        self.scenario_team_id = -1
 
     @classmethod
     def from_csv(cls, items):

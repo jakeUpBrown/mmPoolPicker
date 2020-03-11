@@ -36,7 +36,8 @@ class Scenario:
 
         t1_bucket_st, t2_bucket_st, bucket_size = Utils.get_bucket_indices_by_game_id(self.game_id)
 
-        if self.team_id < t2_bucket_st:
+        # if the t2_bucket_st is None then it should be assumed to look in the first bucket, because that will include every team
+        if t2_bucket_st is not None and self.team_id < t2_bucket_st:
             # need to find the other team in t2_bucket
             bucket_st = t2_bucket_st
         else:

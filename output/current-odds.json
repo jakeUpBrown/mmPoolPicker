@@ -1,146 +1,146 @@
 [
   {
-    "avgMoney": 248.0,
-    "perc1st": "100.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 1.0,
-    "userId": "12",
-    "currentScore": 2993
+    "avgMoney": 46.46,
+    "perc1st": "15.9",
+    "perc2nd": "11.3",
+    "percLast": "0.2",
+    "avgPlace": 5.44,
+    "userId": "1",
+    "currentScore": 0
   },
   {
-    "avgMoney": 35.22,
-    "perc1st": "0.0",
-    "perc2nd": "56.8",
+    "avgMoney": 30.44,
+    "perc1st": "8.9",
+    "perc2nd": "13.5",
     "percLast": "0.0",
-    "avgPlace": 2.56,
+    "avgPlace": 4.81,
     "userId": "11",
-    "currentScore": 2966
+    "currentScore": 0
+  },
+  {
+    "avgMoney": 29.97,
+    "perc1st": "10.2",
+    "perc2nd": "7.5",
+    "percLast": "0.2",
+    "avgPlace": 7.09,
+    "userId": "13",
+    "currentScore": 0
+  },
+  {
+    "avgMoney": 29.14,
+    "perc1st": "9.7",
+    "perc2nd": "8.2",
+    "percLast": "0.0",
+    "avgPlace": 7.03,
+    "userId": "8",
+    "currentScore": 0
   },
   {
     "avgMoney": 26.78,
-    "perc1st": "0.0",
-    "perc2nd": "43.2",
-    "percLast": "0.0",
-    "avgPlace": 2.57,
-    "userId": "5",
-    "currentScore": 2969
-  },
-  {
-    "avgMoney": 10.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "100.0",
-    "avgPlace": 16.0,
-    "userId": "0",
-    "currentScore": 2705
-  },
-  {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 4.64,
-    "userId": "14",
-    "currentScore": 2960
-  },
-  {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 4.76,
+    "perc1st": "8.1",
+    "perc2nd": "10.6",
+    "percLast": "1.2",
+    "avgPlace": 6.95,
     "userId": "6",
-    "currentScore": 2963
+    "currentScore": 0
   },
   {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 5.38,
-    "userId": "3",
-    "currentScore": 2955
+    "avgMoney": 23.46,
+    "perc1st": "8.1",
+    "perc2nd": "5.4",
+    "percLast": "0.2",
+    "avgPlace": 7.84,
+    "userId": "14",
+    "currentScore": 0
   },
   {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 6.9,
-    "userId": "7",
-    "currentScore": 2947
-  },
-  {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 8.0,
-    "userId": "1",
-    "currentScore": 2940
-  },
-  {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 9.19,
-    "userId": "13",
-    "currentScore": 2915
-  },
-  {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 10.01,
+    "avgMoney": 20.56,
+    "perc1st": "6.9",
+    "perc2nd": "5.4",
+    "percLast": "1.0",
+    "avgPlace": 8.56,
     "userId": "15",
-    "currentScore": 2918
+    "currentScore": 0
   },
   {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 10.7,
-    "userId": "9",
-    "currentScore": 2896
+    "avgMoney": 17.28,
+    "perc1st": "6.0",
+    "perc2nd": "1.8",
+    "percLast": "12.8",
+    "avgPlace": 11.57,
+    "userId": "0",
+    "currentScore": 0
   },
   {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
+    "avgMoney": 17.05,
+    "perc1st": "4.4",
+    "perc2nd": "9.9",
     "percLast": "0.0",
-    "avgPlace": 12.24,
-    "userId": "10",
-    "currentScore": 2868
+    "avgPlace": 5.16,
+    "userId": "3",
+    "currentScore": 0
   },
   {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 12.76,
-    "userId": "2",
-    "currentScore": 2875
+    "avgMoney": 16.09,
+    "perc1st": "5.4",
+    "perc2nd": "2.7",
+    "percLast": "10.2",
+    "avgPlace": 11.61,
+    "userId": "12",
+    "currentScore": 0
   },
   {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
+    "avgMoney": 14.45,
+    "perc1st": "4.3",
+    "perc2nd": "6.1",
     "percLast": "0.0",
-    "avgPlace": 14.0,
-    "userId": "8",
-    "currentScore": 2859
+    "avgPlace": 6.27,
+    "userId": "5",
+    "currentScore": 0
   },
   {
-    "avgMoney": 0.0,
-    "perc1st": "0.0",
-    "perc2nd": "0.0",
-    "percLast": "0.0",
-    "avgPlace": 15.0,
+    "avgMoney": 12.38,
+    "perc1st": "3.0",
+    "perc2nd": "0.8",
+    "percLast": "44.4",
+    "avgPlace": 13.55,
     "userId": "4",
-    "currentScore": 2795
+    "currentScore": 0
+  },
+  {
+    "avgMoney": 11.23,
+    "perc1st": "3.5",
+    "perc2nd": "3.3",
+    "percLast": "5.0",
+    "avgPlace": 10.2,
+    "userId": "2",
+    "currentScore": 0
+  },
+  {
+    "avgMoney": 10.54,
+    "perc1st": "2.4",
+    "perc2nd": "7.4",
+    "percLast": "0.0",
+    "avgPlace": 5.7,
+    "userId": "7",
+    "currentScore": 0
+  },
+  {
+    "avgMoney": 7.63,
+    "perc1st": "2.0",
+    "perc2nd": "2.7",
+    "percLast": "10.0",
+    "avgPlace": 11.29,
+    "userId": "10",
+    "currentScore": 0
+  },
+  {
+    "avgMoney": 5.2,
+    "perc1st": "1.2",
+    "perc2nd": "1.4",
+    "percLast": "13.6",
+    "avgPlace": 12.46,
+    "userId": "9",
+    "currentScore": 0
   }
 ]

@@ -1,8 +1,6 @@
 import json
 
 from pool_simulator.utils import Utils
-from pool_simulator.TeamLoader import TeamInfoContainer
-from pool_simulator.Bracket import Bracket
 from pool_simulator.utils.DataLoader import CurrentYearPicks
 
 
